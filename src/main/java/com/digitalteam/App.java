@@ -1,4 +1,4 @@
-package com.digital.team;
+package com.digitalteam;
 
 public class App {
     public static void main( String[] args ) {
